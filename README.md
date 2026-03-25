@@ -28,3 +28,6 @@ An AI-powered system that analyzes global crises using real-time news data.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+Author
+Anvesh Dubey
